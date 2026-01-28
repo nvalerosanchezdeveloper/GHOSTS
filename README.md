@@ -1,0 +1,2 @@
+# GHOSTS
+test 1
